@@ -10,3 +10,5 @@ githu上で更新
 
 stash練習
 stashの練習
+
+untrackについて
