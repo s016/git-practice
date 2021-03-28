@@ -14,3 +14,5 @@ stashの練習
 untrackについて
 
 2nd stash
+
+diff tagname
