@@ -12,3 +12,5 @@ stash練習
 stashの練習
 
 untrackについて
+
+2nd stash
